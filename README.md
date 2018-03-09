@@ -19,3 +19,18 @@
 ### int removeElement(Queue q, int *r)
 
 
+# MiniHeap
+
+### Heap initHeap(int size)
+
+### int bubbleUp(int v[], int pos)
+
+### int bubbleDown(int v[], int inicio, int fim )
+
+### int addElement(Heap h, int valor)
+
+### int removeElement(Heap h, int *valor)
+
+### int miniHeapOK(Heap h)
+
+
